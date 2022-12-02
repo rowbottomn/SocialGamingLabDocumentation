@@ -4,5 +4,5 @@ Steamworks is the commercial program for the STEAM platform.  It covers develope
 ## [Getting Started](https://partner.steamgames.com/doc/sitelicense/licensees/gettingstarted)
 ## [PC Model](https://partner.steamgames.com/doc/sitelicense/licensees/gettingstarted/licensemodelpc)
 ![Adding Sites](AddingSite.png)
-
+[Getting Started with a site server](https://partner.steamgames.com/doc/sitelicense/licensees/gettingstarted/licensemodelpc)
 
