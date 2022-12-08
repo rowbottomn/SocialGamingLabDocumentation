@@ -6,11 +6,11 @@ It is used to document how to setup dedicated servers for 8 different free to pl
 Section | Topic | Contributor(s)
 ---|---|---
 |1. |<strong>Network Interface / Network Setup (Layer 1, 2, 3)<strong>|   
-  1.1 |[Physical setup](Physical_Setup.md) | 
-  1.2 |[Logical setup](Logical_Setup.md)  
-  1.3 |[Layer 1 Networking Issues](Layer_1_Issues.md) |
-  1.4 |[Layer 2 Networking Issues](Layer_2_Issues.md) | 
-  1.5 |[Layer 3 Networking Issues](Layer_3_Issues.md)  |  
+  1.1 |[Physical setup](./Network_Setup.md#physical-setup) | 
+  1.2 |[Logical setup](./Network_Setup.md/#logical-setup)  
+  1.3 |[Layer 1 Networking Issues](./Network_Setup.md#layer-1-networking-issues) |
+  1.4 |[Layer 2 Networking Issues](./Network_Setup.md#layer-2-networking-issues) | 
+  1.5 |[Layer 3 Networking Issues](./Network_Setup.md#layer-3-networking-issues)  |  
 |2. |<strong>Hosts Setup </strong> 
   2.1 |Physical Specs |  
   2.2 |OS Specs | 
