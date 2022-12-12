@@ -6,15 +6,15 @@ It is used to document how to setup dedicated servers for 8 different free to pl
 Section | Topic | Contributor(s)
 ---|---|---
 |1. |<strong>Network Interface / Network Setup (Layer 1, 2, 3)<strong>|   
-  1.1 |[Physical setup](./Network_Setup.md#physical-setup) | 
-  1.2 |[Logical setup](./Network_Setup.md/#logical-setup)  
-  1.3 |[Layer 1 Networking Issues](./Network_Setup.md#layer-1-networking-issues) |
-  1.4 |[Layer 2 Networking Issues](./Network_Setup.md#layer-2-networking-issues) | 
-  1.5 |[Layer 3 Networking Issues](./Network_Setup.md#layer-3-networking-issues)  |  
+  1.1 |[Physical setup](./network_setup.md#physical-setup) | ts
+  1.2 |[Logical setup](./network_setup.md/#logical-setup)  | ch
+  1.3 |[Layer 1 Networking Issues](./network_setup.md#layer-1-networking-issues) | zh
+  1.4 |[Layer 2 Networking Issues](./network_setup.md#layer-2-networking-issues) | zh
+  1.5 |[Layer 3 Networking Issues](./network_setup.md#layer-3-networking-issues)  |   
 |2. |<strong>Hosts Setup </strong> 
-  2.1 |Physical Specs |  
-  2.2 |OS Specs | 
-  2.3 |Account Management | 
+  2.1 |Physical Specs |  jb
+  2.2 |OS Specs | jb
+  2.3 |Account Management & Passwords| mm
   2.4 |Security| 
 |3. | <strong> Application Networking Support (Layer 5, 6, 7) </strong>|  
 3.1 |Firewall|  
@@ -63,12 +63,9 @@ Section | Topic | Contributor(s)
   4.3.2.5 | Client Settings  
   4.3.2.6 | Gameplay    
   4.3.2.7 | Issues  
-  4.3 |Among Us (Imposter)  **Take out?? GREY LEGAL**
-  4.3.1 |Server Installation  
-  4.3.2 |Client Installation  
-  4.3.3 |Network Protocol  
-  4.3.4 |Server Settings  
-  4.3.5 |Client Settings  
-  4.3.6 |Gameplay    
-  4.3.7 |Issues  
+
+  5 | <strong>Development Software </strong> 
+  5.1 | [Processing with Android Mode](android_processing.md)|NR
+
+  
   
