@@ -10,33 +10,37 @@ Section | Topic | Contributor(s)
   1.2 |[Logical setup](./network_setup.md/#logical-setup)  | ch
   1.3 |[Layer 1 Networking Issues](./network_setup.md#layer-1-networking-issues) | zh
   1.4 |[Layer 2 Networking Issues](./network_setup.md#layer-2-networking-issues) | zh
-  1.5 |[Layer 3 Networking Issues](./network_setup.md#layer-3-networking-issues)  |   
+  1.5 |[Layer 3 Networking Issues](./network_setup.md#layer-3-networking-issues)  | zh  
 |2. |<strong>Hosts Setup </strong> 
   2.1 |Physical Specs |  jb
   2.2 |OS Specs | jb
   2.3 |Account Management & Passwords| mm
-  2.4 |Security| 
+  2.4 |Security| nd
+  2.5 | Game Server Host | jb nd
 |3. | <strong> Application Networking Support (Layer 5, 6, 7) </strong>|  
-3.1 |Firewall|  
-3.1.1 |Settings|
-3.1.2 |Issues|
-3.2 | Network Shares
-3.2.1 | Settings
-3.2.2 | Issues
-3.4 |Application Network Issues|
+  3.1 |Firewall| mm 
+  3.1.1 |Settings|
+  3.1.2 |Issues|
+  3.2 | Network Shares |  
+  3.2.1 | Settings
+  3.2.2 | Issues
+  3.3 | Internet Sharing | ch
+  3.3.1 | Settings
+  3.3.2 | Issues
+  3.4 |Application Network Issues|
   3.4.1 |General Settings
   3.4.2 |General Issues
 |4. | <strong>Social Games</strong> | 
   4.1 |STEAM Games  
-  4.1.1 | STEAM Platform
+  4.1.1 | STEAM Platform | ts
   4.1.1.1 | Installation  
   4.1.1.2 | [Setting up Cyber Cafe Account](Steamworks.md) | NR
   4.1.1.3 | Adding Game Libraries |  
   4.1.1.4 | Issues
-  4.1.2 | Alien Storm    
-  4.1.3 | DOTA 2   
-  4.1.4 | TF2   
-  4.1.5 | UNTURNED
+  4.1.2 | Alien Storm |nm    
+  4.1.3 | DOTA 2 |jb  
+  4.1.4 | TF2   | zh
+  4.1.5 | UNTURNED | ts
   4.1.5.1 |Client Installation  
   4.1.5.2 | Network Protocol  
   4.1.5.3 | Server Settings  
@@ -63,8 +67,8 @@ Section | Topic | Contributor(s)
   4.3.2.5 | Client Settings  
   4.3.2.6 | Gameplay    
   4.3.2.7 | Issues  
-
-  5 | <strong>Development Software </strong> 
+  4.4 | Urban Terror
+  5 | <strong>Software Development Software </strong> 
   5.1 | [Processing with Android Mode](android_processing.md)|NR
 
   
