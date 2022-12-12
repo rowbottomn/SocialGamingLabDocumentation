@@ -11,6 +11,10 @@
 ##  OS Specs 
 ### Windows 10 Home
 [//]: # (Which version of windows.)
+
+## Bios Version
+### Q02 Ver. 02.21.00
+
 ##  Account Management & Passwords
 
 ##  Security
