@@ -15,7 +15,7 @@ Section | Topic | Contributor(s)
   2.1 |Physical Specs |  jb
   2.2 |OS Specs | jb
   2.3 |Account Management & Passwords| mm
-  2.4 |Security| nd
+  2.4 |[Security](security.md)| nd
   2.5 | Game Server Host | jb nd
 |3. | <strong> Application Networking Support (Layer 5, 6, 7) </strong>|  
   3.1 |Firewall| mm 
