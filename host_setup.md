@@ -5,7 +5,7 @@
 ### GPU: intel UHD Graphics 630
 ### Memory: 16-24GB, 2666Mhz
 ### NIC Card: Nic speeds 100mbps or 1000mbps
-### USB: 4 front usb 2.0 type a 480mbps, 1 front usb 3.0 type c 5gbps, 6 rear usb 2.0 type a 480 mbps
+### USB: 4 front usb 2.0 type a, 1 front usb 3.0 type c, 6 rear usb 2.0 type a
 ### Display adaptors: 1 rear HDMI, 2 rear Display port
 
 ##  OS Specs 
