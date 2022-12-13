@@ -52,14 +52,14 @@ Section | Topic | Contributor(s)
   4.2.1.1 |Client Installation
   4.2.1.1 |Issues|
   4.2.2 |Starcraft|   
-  4.2.2.1 |Server Installation|
-  4.2.2.2 |Client Installation|  
-  4.2.2.3 |Network Protocol  |
-  4.2.2.4 | Server Settings  |
-  4.2.2.5 | Client Settings | 
-  4.2.2.6 | Gameplay |   
-  4.2.2.7 | Issues  |
-  4.3 | Bedrock Minecraft  
+  4.2.2.1 |[Server Installation](starcraft.md#server-installation)| nr
+  4.2.2.2 |[Client Installation](starcraft.md#client-installation)  | nr
+  4.2.2.3 |[Network Protocol](starcraft.md#network-protocol)  | nr
+  4.2.2.4 | [Server Settings](starcraft.md#server-settings) | nr
+  4.2.2.5 | [Client Settings](starcraft.md#client-settings) | nr
+  4.2.2.6 | [Gameplay](starcraft.md#gameplay) |   nr
+  4.2.2.7 | [Issues](starcraft.md#issues)  | nr
+  4.3 | <strong>Bedrock Minecraft</strong>  
   4.3.2.1 | Server Installation  
   4.3.2.2 | Client Installation  
   4.3.2.3 | Network Protocol  
@@ -67,7 +67,7 @@ Section | Topic | Contributor(s)
   4.3.2.5 | Client Settings  
   4.3.2.6 | Gameplay    
   4.3.2.7 | Issues  
-  4.4 | Urban Terror
+  4.4 | <strong>Urban Terror</strong>
   5 | <strong>Software Development Software </strong> 
   5.1 | [Processing with Android Mode](android_processing.md)|NR
 
