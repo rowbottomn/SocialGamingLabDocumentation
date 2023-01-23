@@ -11,7 +11,7 @@ After it has finished installing, extract the zip file.
 
 In the extracted files, click "Quake3-UrT" to start game.
 
-Urban Terror uses UDP protocol and its default port is 27960.
+Urban Terror uses QUAKE3 and TCP protocol and its default port is 27960.
 
 ## Game settings
 
