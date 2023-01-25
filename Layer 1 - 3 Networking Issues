@@ -1,0 +1,11 @@
+##Layer 1 Networking Issues
+Some common Layer 1 problems include the interface is administratively shut down.
+On switches, interfaces are up by default, but administrators can manually shut them down. 
+It's actually best practice to shut down unused interfaces to stop users from plugging devices in there.
+##Layer 2 Networking Issues
+Switches are typically considered Layer 2 devices. 
+Problems that can occur at this layer include, MAC addressing errors, duplex errors, collisions, CRC frame errors, and spanning-tree problems.
+##Layer 3 Networking Issues
+Addressing, error handling, congestion control, and packet sequences are performed at this layer.
+Routers and Layer 3 switches operate at the network layer. IP, IPX, and AppleTalk are examples of network layer implementations.
+Problems that can occur at this layer are network addressing issues and routing issues.
